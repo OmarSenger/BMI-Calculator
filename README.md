@@ -11,7 +11,7 @@ Widgets Used for UI :
 6- Container
 7- Row
 8- Column
-9-Phoneix Package 
+9-Phoneix Plugin https://pub.dev/packages/flutter_phoenix/install
 10- SizedBox
 11-SingleChildScrollView
 12- Padding
