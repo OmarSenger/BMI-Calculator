@@ -11,8 +11,8 @@ Widgets Used for UI :
 6- Container
 7- Row
 8- Column
-9-Phoneix Plugin 
-and if you want to install and use phoneix package you can use this link :
+9- Phoenix Plugin 
+if you want to install and use phoenix package you can use this link :
 https://pub.dev/packages/flutter_phoenix/install
 10- SizedBox
 11-SingleChildScrollView
