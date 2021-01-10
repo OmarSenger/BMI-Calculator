@@ -13,3 +13,4 @@ Widgets Used for UI :
 8- Column
 9-Phoneix Package 
 10- SizedBox
+11-SingleChildScrollView
